@@ -1,0 +1,41 @@
+/* 
+• Autor: .kubus
+• Nazwa: snake_loadingscreen
+• Prosiłbym o niezmienianie nazwy pliku.
+*/
+
+html {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+
+header h1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+header p {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.box {
+    margin: auto;
+    max-width: 980px;
+    width: fit-content;
+}
+
+canvas {
+    margin-top: 70px;
+    border: 1px solid white;
+}
